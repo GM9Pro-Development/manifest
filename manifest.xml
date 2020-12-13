@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-    <project path="device/GM/GM9PRO_sprout" name="GM9Pro-Development/android_device_GM_GM9PRO_sprout" revision="lineage-16.0" />
+    <project path="device/GM/GM9PRO_sprout" name="GM9Pro-Development/android_device_GM_GM9PRO_sprout" revision="lineage-17.1" />
 
-    <project path="vendor/GM/GM9PRO_sprout" name="GM9Pro-Development/android_vendor_GM_GM9PRO_sprout" revision="lineage-16.0" />
+    <project path="vendor/GM/GM9PRO_sprout" name="GM9Pro-Development/android_vendor_GM_GM9PRO_sprout" revision="lineage-17.1" />
 
     <project path="kernel/bq/sdm660" name="GM9Pro-Development/android_kernel_bq_sdm660" revision="lineage-16.0" />
 
