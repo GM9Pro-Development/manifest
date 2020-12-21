@@ -5,12 +5,10 @@
 
     <project path="vendor/GM/GM9PRO_sprout" name="GM9Pro-Development/android_vendor_GM_GM9PRO_sprout" revision="lineage-17.1" />
 
-    <project path="kernel/bq/sdm660" name="GM9Pro-Development/android_kernel_bq_sdm660" revision="lineage-16.0" />
+    <project path="kernel/bq/sdm660" name="GM9Pro-Development/android_kernel_bq_sdm660" revision="lineage-17.1" />
 
     <remove-project name="LineageOS/android_build" />
     <remove-project name="platform/prebuilts/clang/host/darwin-x86" />
-    <remove-project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" />
-    <remove-project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9" />
     <remove-project name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" />
     <remove-project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" />
     <remove-project name="platform/prebuilts/gdb/darwin-x86" />
