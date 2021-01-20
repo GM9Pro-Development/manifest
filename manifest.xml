@@ -8,6 +8,7 @@
     <project path="kernel/bq/sdm660" name="GM9Pro-Development/android_kernel_bq_sdm660" revision="lineage-17.1" />
 
     <remove-project name="LineageOS/android_build" />
+    <remove-project name="LineageOS/android_system_security" />
     <remove-project name="platform/prebuilts/clang/host/darwin-x86" />
     <remove-project name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" />
     <remove-project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" />
@@ -24,5 +25,7 @@
         <linkfile src="target" dest="build/target" />
         <linkfile src="tools" dest="build/tools" />
     </project>
+
+    <project path="system/security" name="GM9Pro-Development/android_system_security" revision="lineage-17.1" />
 
 </manifest>
