@@ -27,5 +27,6 @@
     </project>
 
     <project path="system/security" name="GM9Pro-Development/android_system_security" revision="lineage-17.1" />
+    <project path="vendor/lineage" name="GM9Pro-Development/android_vendor_lineage" revision="lineage-17.1" />
 
 </manifest>
